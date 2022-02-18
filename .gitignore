@@ -1,4 +1,4 @@
-
+venv
 *.zip
-*.txt
 *.csv
+CI_newspaper_subcorpora/
