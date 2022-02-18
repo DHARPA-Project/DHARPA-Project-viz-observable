@@ -36,19 +36,3 @@ https://observablehq.com/@dharpa-project/timestamped-corpus
 |---|---|---|
 |dateInfo|Outputs the date selected when a user click on the date that appears at the top of the interactive time navigation bar|array ([yyyy,m or mm,d or dd])|
 
-
-<style>
-table th:first-of-type {
-    width: 20%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-table th:nth-of-type(3) {
-    width: 20%;
-}
-table th:nth-of-type(4) {
-    width: 10%;
-}
-</style>
-
